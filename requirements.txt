@@ -1,0 +1,14 @@
+# Versions used for the final project notebook on Python 3.14
+numpy==2.4.2
+pandas==3.0.2
+matplotlib==3.10.8
+torch==2.11.0
+scikit-learn==1.8.0
+scipy==1.17.0
+qiskit==2.3.0
+qiskit-aer==0.17.2
+qiskit-ibm-runtime==0.45.0
+tqdm==4.67.3
+# Should hopefully not matter for these
+python-dotenv
+ipykernel
